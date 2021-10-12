@@ -1,6 +1,6 @@
 # JARVIS V3
 <p align="center">
-<a href="#"><img title="SPARROW OFC" src="https://img.shields.io/badge/SPARROW-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Adithser OFC" src="https://img.shields.io/badge/SPARROW-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Sparrow"><img title="Author" src="https://img.shields.io/badge/AUTHOR-AKSHAY-orange.svg?style=for-the-badge&logo=github"></a>
@@ -14,7 +14,7 @@
 </p>
 </details>
 
-## THANKS TO SPARROW
+## THANKS TO Adithser
 
 # CLONE THIS PROJECT  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
 
@@ -50,8 +50,8 @@
 
 # CONTACT ME <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`WhatsApp Number `](https://wa.me/+919947291867)
-* [`WhatsApp Group `](https://chat.whatsapp.com/GGWFogD7JtD2BZZREqHmYd)
+* [`WhatsApp Number `](https://wa.me/+919961583857)
+* [`WhatsApp Group `](https://chat.whatsapp.com/GGWFogD7JtD2BZZREqHmid)
 
 
 # THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
